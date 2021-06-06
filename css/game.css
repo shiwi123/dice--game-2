@@ -1,10 +1,5 @@
 body{
-    background-image: url("/images/bgimage.jpg");
-    padding:0px;
-    margin:0px;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-color:#0C4271;
 }
 
 .container {
