@@ -37,5 +37,5 @@
                 document.querySelector("h1").innerHTML
                                 = (player1 + " WINS!");
             }
-        }, 2500);
+        }, 1000);
     }
